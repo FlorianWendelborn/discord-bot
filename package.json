@@ -1,0 +1,30 @@
+{
+  "name": "discord-bot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dodekeract/discord-bot.git"
+  },
+  "keywords": [
+    "discord",
+    "discord.gg",
+    "bot",
+    "chat",
+    "bot",
+    "chat"
+  ],
+  "author": "Florian Wendelborn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dodekeract/discord-bot/issues"
+  },
+  "homepage": "https://github.com/dodekeract/discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^5.0.1"
+  }
+}
